@@ -1,5 +1,6 @@
 import openai
 
+
 openai.api_key = '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'
 
 query = input("Provide a string to translate into French: "
